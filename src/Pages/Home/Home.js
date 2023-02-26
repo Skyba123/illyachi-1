@@ -8,7 +8,7 @@ import Footer from "../../Widget/Footer/Footer";
 import {Link} from "react-router-dom";
 import {useEffect} from "react";
 
-const API_URL = 'https://cogitize-practice-suggest.onrender.com/movie/list?'
+const API_URL = 'https://cogitize-practice.onrender.com/movie/list'
 const MainContainer = () => {
 
     const [movie, setMovie] = useState([]);
@@ -36,7 +36,7 @@ const MainContainer = () => {
     const getMoviesForQuery = async (value) => {
         try {
             const response = await fetch(
-                `https://cogitize-practice-suggest.onrender.com/movie/list?genre=${value}`
+                `https://cogitize-practice.onrender.com/movie=${value}`
             );
             const data = await response.json();
 
