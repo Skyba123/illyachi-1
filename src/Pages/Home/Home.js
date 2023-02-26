@@ -42,7 +42,7 @@ const MainContainer = () => {
 
             setMovie(data);
         } catch (error) {
-            console.log("Catch error :", error);
+            console.log("Catch error:", error);
         }
         finally
         {
@@ -57,7 +57,6 @@ const MainContainer = () => {
     const handleInput = (e) => {
         const value = e.target.id;
         setInputValue(value);
-
         getMoviesForQuery(value);
     };
 
