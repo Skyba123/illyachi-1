@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cogi/static/css/main.9b09f125.css",
-    "main.js": "/cogi/static/js/main.de4c719d.js",
-    "static/media/image.png": "/cogi/static/media/image.3256cb2af3843dc21921.png",
-    "static/media/DetailsTitleImage.png": "/cogi/static/media/DetailsTitleImage.2e71754a873ea337e299.png",
-    "static/media/MoneyHeist.jpg": "/cogi/static/media/MoneyHeist.7e16beb6e74f292e93e9.jpg",
-    "static/media/thebigbang.jpg": "/cogi/static/media/thebigbang.50411d00c83020f482d6.jpg",
-    "static/media/loki.jpg": "/cogi/static/media/loki.8862b9c842185982f381.jpg",
-    "static/media/BlackWidow.jpg": "/cogi/static/media/BlackWidow.fc85a99eff6dfe2b89e9.jpg",
-    "static/media/ShangChi.jpg": "/cogi/static/media/ShangChi.45224129e3aa3b43fdee.jpg",
-    "static/media/HowIMetYourMother.jpg": "/cogi/static/media/HowIMetYourMother.20ec5e45eeb7e1769f40.jpg",
-    "static/media/friend.jpg": "/cogi/static/media/friend.0ef71b19facc0a9c23b9.jpg",
-    "static/media/TwoMan.jpg": "/cogi/static/media/TwoMan.3b32ead4310662ba555d.jpg",
-    "index.html": "/cogi/index.html",
-    "static/media/star.svg": "/cogi/static/media/star.c25528ec2485d8ad83805da5c17d2589.svg",
-    "static/media/icon.svg": "/cogi/static/media/icon.9a5d6366f942f20df3535961a00666ab.svg",
-    "main.9b09f125.css.map": "/cogi/static/css/main.9b09f125.css.map",
-    "main.de4c719d.js.map": "/cogi/static/js/main.de4c719d.js.map"
+    "main.css": "/illyachi-1/static/css/main.eaad9697.css",
+    "main.js": "/illyachi-1/static/js/main.1254b50c.js",
+    "static/media/image.png": "/illyachi-1/static/media/image.3256cb2af3843dc21921.png",
+    "static/media/DetailsTitleImage.png": "/illyachi-1/static/media/DetailsTitleImage.2e71754a873ea337e299.png",
+    "static/media/MoneyHeist.jpg": "/illyachi-1/static/media/MoneyHeist.7e16beb6e74f292e93e9.jpg",
+    "static/media/thebigbang.jpg": "/illyachi-1/static/media/thebigbang.50411d00c83020f482d6.jpg",
+    "static/media/loki.jpg": "/illyachi-1/static/media/loki.8862b9c842185982f381.jpg",
+    "static/media/BlackWidow.jpg": "/illyachi-1/static/media/BlackWidow.fc85a99eff6dfe2b89e9.jpg",
+    "static/media/ShangChi.jpg": "/illyachi-1/static/media/ShangChi.45224129e3aa3b43fdee.jpg",
+    "static/media/HowIMetYourMother.jpg": "/illyachi-1/static/media/HowIMetYourMother.20ec5e45eeb7e1769f40.jpg",
+    "static/media/friend.jpg": "/illyachi-1/static/media/friend.0ef71b19facc0a9c23b9.jpg",
+    "static/media/TwoMan.jpg": "/illyachi-1/static/media/TwoMan.3b32ead4310662ba555d.jpg",
+    "index.html": "/illyachi-1/index.html",
+    "static/media/star.svg": "/illyachi-1/static/media/star.c25528ec2485d8ad83805da5c17d2589.svg",
+    "static/media/icon.svg": "/illyachi-1/static/media/icon.9a5d6366f942f20df3535961a00666ab.svg",
+    "main.eaad9697.css.map": "/illyachi-1/static/css/main.eaad9697.css.map",
+    "main.1254b50c.js.map": "/illyachi-1/static/js/main.1254b50c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b09f125.css",
-    "static/js/main.de4c719d.js"
+    "static/css/main.eaad9697.css",
+    "static/js/main.1254b50c.js"
   ]
 }
