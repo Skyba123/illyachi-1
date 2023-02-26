@@ -9,9 +9,7 @@ const Card = ({ data }) => {
             <span className={style.card_title}>{data.title}</span>
         </div>
 
-        <div className={style.rate_container}>
-            <Rate rate={data.rating.toFixed(2)} />
-        </div>
+
     </div>
   );
 };
