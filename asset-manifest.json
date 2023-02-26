@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/illyachi-1/static/css/main.eaad9697.css",
-    "main.js": "/illyachi-1/static/js/main.1254b50c.js",
+    "main.css": "/illyachi-1/static/css/main.c45bc02c.css",
+    "main.js": "/illyachi-1/static/js/main.6f2211dc.js",
     "static/media/image.png": "/illyachi-1/static/media/image.3256cb2af3843dc21921.png",
     "static/media/DetailsTitleImage.png": "/illyachi-1/static/media/DetailsTitleImage.2e71754a873ea337e299.png",
     "static/media/MoneyHeist.jpg": "/illyachi-1/static/media/MoneyHeist.7e16beb6e74f292e93e9.jpg",
@@ -15,11 +15,11 @@
     "index.html": "/illyachi-1/index.html",
     "static/media/star.svg": "/illyachi-1/static/media/star.c25528ec2485d8ad83805da5c17d2589.svg",
     "static/media/icon.svg": "/illyachi-1/static/media/icon.9a5d6366f942f20df3535961a00666ab.svg",
-    "main.eaad9697.css.map": "/illyachi-1/static/css/main.eaad9697.css.map",
-    "main.1254b50c.js.map": "/illyachi-1/static/js/main.1254b50c.js.map"
+    "main.c45bc02c.css.map": "/illyachi-1/static/css/main.c45bc02c.css.map",
+    "main.6f2211dc.js.map": "/illyachi-1/static/js/main.6f2211dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaad9697.css",
-    "static/js/main.1254b50c.js"
+    "static/css/main.c45bc02c.css",
+    "static/js/main.6f2211dc.js"
   ]
 }
