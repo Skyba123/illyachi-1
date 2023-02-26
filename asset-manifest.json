@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/illyachi-1/static/css/main.c45bc02c.css",
-    "main.js": "/illyachi-1/static/js/main.fd041253.js",
+    "main.css": "/illyachi-1/static/css/main.08ec94ed.css",
+    "main.js": "/illyachi-1/static/js/main.b6a3d909.js",
     "static/media/image.png": "/illyachi-1/static/media/image.3256cb2af3843dc21921.png",
-    "static/media/DetailsTitleImage.png": "/illyachi-1/static/media/DetailsTitleImage.2e71754a873ea337e299.png",
     "static/media/MoneyHeist.jpg": "/illyachi-1/static/media/MoneyHeist.7e16beb6e74f292e93e9.jpg",
     "static/media/thebigbang.jpg": "/illyachi-1/static/media/thebigbang.50411d00c83020f482d6.jpg",
     "static/media/loki.jpg": "/illyachi-1/static/media/loki.8862b9c842185982f381.jpg",
@@ -15,11 +14,11 @@
     "index.html": "/illyachi-1/index.html",
     "static/media/star.svg": "/illyachi-1/static/media/star.c25528ec2485d8ad83805da5c17d2589.svg",
     "static/media/icon.svg": "/illyachi-1/static/media/icon.9a5d6366f942f20df3535961a00666ab.svg",
-    "main.c45bc02c.css.map": "/illyachi-1/static/css/main.c45bc02c.css.map",
-    "main.fd041253.js.map": "/illyachi-1/static/js/main.fd041253.js.map"
+    "main.08ec94ed.css.map": "/illyachi-1/static/css/main.08ec94ed.css.map",
+    "main.b6a3d909.js.map": "/illyachi-1/static/js/main.b6a3d909.js.map"
   },
   "entrypoints": [
-    "static/css/main.c45bc02c.css",
-    "static/js/main.fd041253.js"
+    "static/css/main.08ec94ed.css",
+    "static/js/main.b6a3d909.js"
   ]
 }
