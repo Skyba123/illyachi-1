@@ -10,7 +10,7 @@ const Card = ({ data }) => {
         </div>
 
         <div className={style.rate_container}>
-            <Rate rate={data.rating.toFixed(1)} />
+            <Rate rate={data.rating.toFixed(2)} />
         </div>
     </div>
   );
